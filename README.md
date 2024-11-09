@@ -45,7 +45,6 @@ DriveXChange is a dynamic car rental platform, crafted with PHP and MySQL, offer
 
 4. **Run the Website Locally**:
    - Move the project folder into your server’s `htdocs` (if using XAMPP).
-   - Open [http://localhost/DriveXChange-CarRentalWebsite](http://localhost/DriveXChange-CarRentalWebsite) to explore the site.
 
 
 ## 📂 Project Structure
@@ -62,13 +61,8 @@ DriveXChange-CarRentalWebsite/
 ## 📸 Screenshots
 
 **User Panel Dashboard**
-
-![car1](https://github.com/user-attachments/assets/4b79d68a-7d8f-47ed-99c1-7240637ab0ca)
-
-![car2](https://github.com/user-attachments/assets/f610c877-9431-4541-a1ee-3c153a401c9b)
-
-
-
+![car1](https://github.com/user-attachments/assets/2033c1e1-3fcb-4d44-a98c-e4e56919b03a)
+![car2](https://github.com/user-attachments/assets/8befdc77-e983-4254-ab83-12bb8df70827)
 
 ## 🚧 Future Improvements
 - **Search & Filter**: Allow users to search cars by model, type, and availability.
